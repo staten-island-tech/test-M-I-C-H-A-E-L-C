@@ -11,8 +11,8 @@ t.speed(100)
 
 for i in range(2000000000000):
     t.forward(x)
-    t.left(67)
-    t.forward(67)
+    t.left(90)
+    t.forward(100)
     t.right(41)
     t.backward(67)
 turtle.done
